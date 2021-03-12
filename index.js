@@ -1,1 +1,2 @@
-console.log('holi')
+console.log('holi');
+const hello = 'hello';
